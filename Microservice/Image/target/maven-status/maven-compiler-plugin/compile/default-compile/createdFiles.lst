@@ -1,0 +1,3 @@
+com\microservice\image\controller\HomeController.class
+com\microservice\image\entity\Image.class
+com\microservice\image\ImageApplication.class

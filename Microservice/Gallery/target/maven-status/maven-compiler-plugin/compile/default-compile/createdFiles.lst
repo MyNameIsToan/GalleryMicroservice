@@ -1,0 +1,4 @@
+com\microservice\gallery\entity\Gallery.class
+com\microservice\gallery\GalleryServiceApplication.class
+com\microservice\gallery\RestTemplateConfig.class
+com\microservice\gallery\controller\HomeController.class
